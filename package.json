@@ -1,0 +1,14 @@
+{
+  "name": "flash-pop-effect",
+  "version": "0.0.0",
+  "files": ["dist"],
+  "main": "./dist/pop-flash-effect.umd.js",
+  "module": "./dist/pop-flash-effect.es.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^2.0.0-beta.12"
+  }
+}
